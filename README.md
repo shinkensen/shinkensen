@@ -10,7 +10,7 @@
 <p align="left">🔭 I’m currently working on Something
 
 
-<p align="left">✨ Creating bugs since August 2024<br>📚 I'm currently learning Next + React<br>🎯 Goals: Get into a Good College<br>🎲 Fun fact: I daily drive a Ultra 9 285H Asus Vivobook S16 </p>
+<p align="left">✨ Creating bugs since August 2024<br>📚 I'm currently learning Next.js + React.js<br>🎯 Goals: Get into a Good College<br>🎲 Fun fact: I daily drive a Ultra 9 285H Asus Vivobook S16 </p>
 
 ###
 
