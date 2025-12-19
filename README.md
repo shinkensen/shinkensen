@@ -1,4 +1,4 @@
-<!--<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
@@ -7,17 +7,18 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">🔭 I’m currently working on Something
+<p align="left">🔭 I’m currently working on Nothing
 
 
-<p align="left">✨ Creating bugs since August 2024<br>📚 I'm currently learning Next.js + React.js<br>🎯 Goals: Get into a Good College<br>🎲 Fun fact: I daily drive a Ultra 9 285H Asus Vivobook S16 </p>
+<p align="left">✨ Creating bugs since August 2024<br>📚 I'm currently learning Nothing<br>🎯 Goals: Get into a Good College<br>🎲 Fun fact: I daily drive a Ultra 9 285H Asus Vivobook S16 </p>
 
 ###
 
 <h2 align="left">I code with</h2>
 
 ###
-
+Nothing
+<!--
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -52,4 +53,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
 </div>
 -->
-<p>_Redacted_</p>
+
