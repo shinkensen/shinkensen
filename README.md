@@ -10,7 +10,7 @@
 <p align="left">🔭 I’m currently working on Learning Computer Engineering
 
 
-<p align="left">✨ Creating bugs since August 2024<br>📚 I'm currently learning Nothing<br>🎯 Goals: Get into a Good College<br>🎲 Fun fact: I daily drive a Ultra 9 285H Asus Vivobook S16 </p>
+<p align="left">✨ Creating bugs since August 2024<br>📚 I'm currently learning CE<br>🎯 Goals: Learn as much as I can! <br>🎲 Fun fact: I daily drive a Ultra 9 285H Asus Vivobook S16 </p>
 
 ###
 <!--
