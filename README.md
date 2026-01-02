@@ -7,18 +7,17 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">🔭 I’m currently working on Nothing
+<p align="left">🔭 I’m currently working on Learning Computer Engineering
 
 
 <p align="left">✨ Creating bugs since August 2024<br>📚 I'm currently learning Nothing<br>🎯 Goals: Get into a Good College<br>🎲 Fun fact: I daily drive a Ultra 9 285H Asus Vivobook S16 </p>
 
 ###
-
+<!--
 <h2 align="left">I code with</h2>
 
 ###
-Nothing
-<!--
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
